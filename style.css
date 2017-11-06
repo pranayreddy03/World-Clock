@@ -15,7 +15,7 @@ p
 {
     width: 33.3%;
     height: 33.3%;
-    background-color: darkgray;
+    background-color: #afd275;
     position: absolute;
     top:0;
     left: 0;
@@ -24,7 +24,7 @@ p
 {
     width: 33.3%;
     height: 33.3%;
-    background-color: blue;
+    background-color: #daad86;
     position: absolute;
     top:0;
     left: 33.3%;
@@ -33,7 +33,7 @@ p
 {
     width: 33.3%;
     height: 33.3%;
-    background-color: deeppink;
+    background-color: #379683;
     position: absolute;
     top:0;
     left: 66.6%;
@@ -42,7 +42,7 @@ p
 {
     width: 33.3%;
     height: 33.3%;
-    background-color: brown;
+    background-color: #8860d0;
     position: absolute;
     top:33.3%;
     left: 0;
@@ -51,7 +51,7 @@ p
 {
     width: 33.3%;
     height: 33.3%;
-    background-color: purple;
+    background-color: #282828;
     position: absolute;
     top:33.3%;
     left: 33.3%;
@@ -60,7 +60,7 @@ p
 {
     width: 33.3%;
     height: 33.3%;
-    background-color: orange;
+    background-color: #bab2b5;
     position: absolute;
     top:33.3%;
     left: 66.6%;
@@ -87,7 +87,7 @@ p
 {
     width: 33.3%;
     height: 33.3%;
-    background-color: cyan;
+    background-color: #5a5560;
     position: absolute;
     top:66.6%;
     left: 66.6%;
