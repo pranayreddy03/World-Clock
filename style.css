@@ -1,0 +1,94 @@
+body
+{
+    margin: 0;
+
+    font-family: courier, monospace;
+    color: white;
+}
+p
+{
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+}
+#current
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: darkgray;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+#eastern
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: blue;
+    position: absolute;
+    top:0;
+    left: 33.3%;
+}
+#australian
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: deeppink;
+    position: absolute;
+    top:0;
+    left: 66.6%;
+}
+#greenwich
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: brown;
+    position: absolute;
+    top:33.3%;
+    left: 0;
+}
+#gulf
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: purple;
+    position: absolute;
+    top:33.3%;
+    left: 33.3%;
+}
+#japan
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: orange;
+    position: absolute;
+    top:33.3%;
+    left: 66.6%;
+}
+#indian
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: violet;
+    position: absolute;
+    top:66.6%;
+    left: 0;
+}
+#centralEurpoean
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: cadetblue;
+    position: absolute;
+    top:66.6%;
+    left: 33.3%;
+}
+#pacific
+{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: cyan;
+    position: absolute;
+    top:66.6%;
+    left: 66.6%;
+}
